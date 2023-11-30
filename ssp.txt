@@ -1,0 +1,25 @@
+Sten Sax Påse
+----------------------------------------------
+
+Computer chooses
+    -- array of 3 things
+    -- random selection - Math floor etc
+    -- variable
+
+Players chooses
+    -- userInput
+    -- prompt
+    -- variable
+
+Fight!
+    -- compare
+    -- compare variable
+    -- if statement
+
+What happens if its a draw? Replay? Loop?
+    while()
+
+Winner
+    -- display who won
+
+
